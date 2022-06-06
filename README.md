@@ -7,6 +7,12 @@
 > Implement a connection between a Ruby on Rails back-end and React front-end.
 > Understand pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.
 
+# Frontend Demo Link
+[Click here](https://pacific-falls-34020.herokuapp.com/)
+
+# Backend Demo Link
+[Click here](https://gentle-anchorage-05317.herokuapp.com/api/v1/message)
+
 ## Built With
 
 - Major languages: Rails, Ruby
